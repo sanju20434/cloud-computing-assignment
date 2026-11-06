@@ -1,0 +1,25 @@
+
+{
+  "model_name": "EleutherAI/pythia-70m",
+  "precision": "FP32",
+  "models": {
+    "v1": {
+      "path": "models/v1",
+      "training_records": 1500,
+      "epochs": 3,
+      "learning_rate": 0.0001,
+      "training_loss": 0.2508,
+      "full_frame_accuracy": 39.0,
+      "sha256": "F7C8D3412B23AD5006BA56D87FDEB324B3D4618B92203E5108FAA1959937B378"
+    },
+    "v2": {
+      "path": "models/v2",
+      "training_records": 1500,
+      "epochs": 5,
+      "learning_rate": 0.00005,
+      "training_loss": 0.1324,
+      "full_frame_accuracy": 40.0,
+      "sha256": "F2BB8488963A883EBB3E84FD9DE7F10CCC14ECE95A9C8B3E2D6C0A7F92622E15"
+    }
+  }
+}

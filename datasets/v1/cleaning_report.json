@@ -1,0 +1,21 @@
+{
+    "total_raw_records": 3000,
+    "unique_ids": 3000,
+    "valid_records": 2952,
+    "rejected_records": 48,
+    "train_file": "C:\\Users\\Lenovo\\Downloads\\cloud_assignment\\datasets\\v1\\train.jsonl",
+    "rejected_file": "C:\\Users\\Lenovo\\Downloads\\cloud_assignment\\datasets\\v1\\rejected.jsonl",
+    "hash_algorithm": "SHA-256",
+    "allowed_intents": [
+        "alarm_query",
+        "alarm_set",
+        "calendar_query",
+        "calendar_remove",
+        "calendar_set",
+        "datetime_query",
+        "recommendation_events",
+        "weather_query"
+    ],
+    "recovered_from_retry": 274,
+    "backup_file": "C:\\Users\\Lenovo\\Downloads\\cloud_assignment\\datasets\\v1\\train_before_retry_merge.jsonl"
+}

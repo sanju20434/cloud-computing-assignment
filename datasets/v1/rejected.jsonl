@@ -1,0 +1,322 @@
+{"id": "C0013", "command": "set alarm for tomorrow at two pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0015", "command": "olly can you remind me about the gym class in two hours", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C0023", "command": "set an alarm for me for tomorrow at seven pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0051", "command": "remind this after two days", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0073", "command": "by our scores", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C0111", "command": "set an event happy birthday john to repeat on twenty one january two thousand and seventeen", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0113", "command": "make blank on july three calendar", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0149", "command": "please set the alarm for next morning to seven am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0151", "command": "please set a reminder alarm for three pm on saturday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0155", "command": "make an event reminder for monas wedding on tuesday", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0173", "command": "remember me to send the presentation today at one pm", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C0175", "command": "i have a meeting by two pm today please remind me", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0177", "command": "please schedule meeting with ri at ten am on april first", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0205", "command": "remind me tomorrow at two pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0243", "command": "delete this event on march three", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0249", "command": "i am need my hat today", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C0259", "command": "i want an alarm for six am everyday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0305", "command": "hey olly please set a reminder for tomorrow morning ten am meeting", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0317", "command": "hey olly how is the weather in long island new york", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0321", "command": "olly remove standup on friday at ten am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0327", "command": "is my meeting with bob tomorrow at three pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0335", "command": "tell me the weather in miami florida", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0347", "command": "set reminder for tomorrow at two pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0423", "command": "add to my calendar mom's fashion dinner for may fifth", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0427", "command": "olly new york time", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C0457", "command": "clear all events from march seven", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0477", "command": "fifty thousand two hundred and seventeenth", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C0485", "command": "make an alarm for four pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0487", "command": "please add haircut to march twenty seventh at three pm", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0491", "command": "do i have a game on april seven", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0511", "command": "add to calendar may two is mary's birthday repeat every year", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0543", "command": "please mark the date first of february twenty seventeen and set the reminder at five pm to make an appointment with mr richard", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0577", "command": "can you schedule me for a hair cut on april first in saskatoon", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0593", "command": "remind me to buy a gift once in morning and once in evening", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0609", "command": "is it true that susan's birthday is on march first", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0637", "command": "remind me at the fifteenth of every month", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0675", "command": "hi please remind the next meeting with my boss it will be at eleven am next monday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0679", "command": "mark next tuesday in my calendar as steve's birthday", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0691", "command": "set a meeting with mr forman for thursday at two pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0709", "command": "time wellington nz", "reason": "incorrect_keys", "source": "worker_0.jsonl"}
+{"id": "C0743", "command": "please add the meeting with ms boland on wednesday eight hundred am to my calendar", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0753", "command": "july three calendar", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0785", "command": "what time does the sun set", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0805", "command": "set a reminder to go to movies with ron on march twenty seven", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0857", "command": "remind me about tuesday meeting with client at ten am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0873", "command": "please reschedule the meeting to six pm tomorrow and inform members", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0885", "command": "set a meeting on wednesday at three pm in room", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0927", "command": "hey make sure i go to sarahs birthday party on the twelveth", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0941", "command": "do i have anything scheduled for march seventh", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0951", "command": "please tell me current events for the day", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0959", "command": "i need you to remind me to go to store tomorrow", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C0961", "command": "remove wyatt's birthday party on my calendar", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0999", "command": "what meetings occurred between january one and january twelve", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1037", "command": "alexa what is the weather going to be like on march twentieth two thousand and seventeen", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1041", "command": "add on calendar birthday party tomorrow two pm for jane at her house", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1061", "command": "what is the weather like in miami florida today", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1071", "command": "what time is my eye doctor appointment on the twenty third", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1105", "command": "hey is it going to rain today in brooklyn new york", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1107", "command": "i go with black sunglasses or not", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1111", "command": "set a reminder for a meeting at two pm tomorrow between myself and john", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1147", "command": "create event christmas on december twenty five two thousand and seventeen and set it to a repeating reminder", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1167", "command": "please let me know what time seven pm is in pst", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1183", "command": "can i get the current time", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1185", "command": "please set a reminder of raju marriage on thirty first of march twenty seventeen", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1201", "command": "i always pay attention", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1213", "command": "remind me off about my tomorrow meeting sharply at ten", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1237", "command": "can you remind me about the gym class in two hours", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1247", "command": "tell me what is on the schedule for july seventh", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1307", "command": "open memo add note about my meeting", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1319", "command": "do i have anything going on saturday at five pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1345", "command": "bring up google calendar please add event for may fifth", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1359", "command": "what day does halloween fall on this year", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1379", "command": "have you added a meeting with tom tomorrow at nine pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1391", "command": "does my calendar say i'm free on april one two thousand and seventeen", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1393", "command": "olly should i wear my gloves or not", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1403", "command": "i want a reminder for an editor's meeting at two pm thursday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1437", "command": "what's the current time in orlando florida", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1473", "command": "i am gone today an umbrella", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1487", "command": "i want to go to sally's birthday on saturday at ten pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1527", "command": "get me the details of upcoming oscar two thousand and seventeen", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1529", "command": "set alarm for sixth of june two thousand seventeen at five am", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1531", "command": "bring up calendar and schedule meeting with ri april first ten am", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1543", "command": "please add an appointment at nine am wednesday at dr greens office", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1545", "command": "set alarm half an hour from my meal time", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1547", "command": "read information about calendar event on march nineteenth at two pm", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1557", "command": "set a notification for eleven march that an interview is scheduled with mr rodriguez", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1609", "command": "hey olly what time is it in orlando florida", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1623", "command": "who is coming to the meeting tomorrow at ten am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1627", "command": "don't let me forget i have a parent teacher conference this monday at four hundred pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1629", "command": "remind me that i have a meeting with cassy for an ola event happening tomorrow", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1659", "command": "create an empty calendar event for next saturday at ten am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1665", "command": "open my reminders", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1679", "command": "set an alarm at ten am tomorrow and label it as meeting", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1725", "command": "answer email from", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1741", "command": "can you add my brother's birthday dinner at rusk for march twenty third", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1761", "command": "set calendar reminder for noon titled lunch meeting", "reason": "incorrect_keys", "source": "worker_0.jsonl"}
+{"id": "C1769", "command": "remind me of the meeting with my teacher today by five pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1773", "command": "schedule a meeting with ri on april first at ten am", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1783", "command": "add sally's birthday to calendar for saturday at ten pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1785", "command": "hey olly what will the weather be like to today in los angeles california", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1787", "command": "what is the event on march nineteenth at two pm about", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1815", "command": "what time is it in honolulu", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1817", "command": "please remove the parent teacher conference scheduled on march seven", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1871", "command": "please remind me of", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C1877", "command": "on october first at two pm lunch with ann", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1897", "command": "remind me about the march sixteen meeting", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1903", "command": "delete the next wedding event", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1927", "command": "cancel appointment for third of april", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1929", "command": "please delete my lunch date from the march twenty third schedule", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C1949", "command": "what time is the cantonese dog festival", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2013", "command": "cancels lunch at the restaurant booked for march twenty five", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2023", "command": "remind me about my lunch date for monday", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C2025", "command": "add an appointment with my dentist for ten am next monday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2053", "command": "please add a four pm appointment for every tuesday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2069", "command": "can you set a reminder for wednesday at one pm for my meeting", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2073", "command": "please make a reminder for friday at six pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2109", "command": "can you tell me what time is it in new york", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2135", "command": "create a birthday wish reminder for tomorrow at ten am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2139", "command": "please give me a two hour warning before next saturdays meeting", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2143", "command": "remind me tomorrow at four about an event", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2149", "command": "alarm time for twelve pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2153", "command": "please remind me about swatishs birthday", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2247", "command": "delete meeting scheduled with john on twenty one march", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2251", "command": "for the week of the twentieth delete all tutoring events", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2273", "command": "can you set the location to my sisters house for this event", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2315", "command": "set an alarm for tomorrow morning at eight", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2329", "command": "remember that i need to turn in my math assignment tonight by eleven", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2345", "command": "new calendar event for albert's marriage", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2367", "command": "make a note to pay the electricity bill and remind me on saturday at nine am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2381", "command": "one hundred thousand two hundred and seventeenth", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C2439", "command": "do i have any meetings tomorrow at nine pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2445", "command": "fill my calendar with a meeting with garvin and trilly for december fifth at five hundred and thirty pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2463", "command": "what time is it in england", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2473", "command": "what was the date of two wednesdays back from today", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2497", "command": "new notification for meeting in two hours", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C2563", "command": "add the following date and time to my calendar", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2577", "command": "delete grocery shopping from my saturday schedule", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2583", "command": "i have a department head meeting friday at nine am sharp", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2603", "command": "add my practice at king's park on feb four at two pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2621", "command": "what are the pending reminder for today evening", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C2629", "command": "it is hot today is not it", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C2637", "command": "i have a meeting tomorrow at two pm with john put that in my calendar", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2641", "command": "what will the weather be like in austin on march sixteenth", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2649", "command": "add monas wedding even to my calendar for tuesday", "reason": "place_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2651", "command": "add a new event for tomorrow at five pm meet sarah at the gym", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2701", "command": "please remind me i need to pick my clothes from the cleaner today", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C2713", "command": "what time does the festival start", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2753", "command": "am i available at five pm on sunday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2771", "command": "please set up a meeting with becky at three pm on tuesday", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2787", "command": "set a two day notification before maria's birthday please", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2793", "command": "i'm going to the oar concert in paris on march twenty four", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2829", "command": "remind me the upcoming meeting at four am today", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2845", "command": "make me a wake up alarm for eight forty five am", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2873", "command": "what is the time difference between here and dakar", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2875", "command": "delete an first event of twenty third of march twenty seventeen", "reason": "date_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2905", "command": "please remind me of my teachers meeting on thursday at three pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2923", "command": "what is the address for the event scheduled on the first of january", "reason": "invalid_intent", "source": "worker_0.jsonl"}
+{"id": "C2941", "command": "i need to set a reminder to go to a work meeting on friday at two hundred pm", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C2959", "command": "what time does the dinner party start tonight", "reason": "time_not_in_command", "source": "worker_0.jsonl"}
+{"id": "C0010", "command": "set a weekly meeting for friday nine am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0098", "command": "please tell me about a hour before thursday about my hair appointment", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0106", "command": "oliver will send me an email on thursday and please set up a calendar appointment for our meeting based on the date he will provide on that email", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0114", "command": "i need to set a reminder to go to a work meeting on friday at two hundred pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0200", "command": "i need to calendar a meeting with allison on monday at ten am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0202", "command": "alarm five pm tuesday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0216", "command": "i need to set an alarm tomorrow at one thousand two hundred pm to remind me to take my medication", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0230", "command": "please set a reminder for church services on sundays for eleven am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0246", "command": "go to calendar and delete an third event of twenty seventh of march twenty seventeen", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0268", "command": "olly do i need to wear boots", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0270", "command": "i want you to remind me the next meeting with my girlfriend it will be at eight pm next sunday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0272", "command": "add work out to the calendar for monday through friday from five to six hundred am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0276", "command": "can you tell me the current time", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0322", "command": "if there is any free space please set a reminder for me to call my sister about a college fund between my meetings this evening", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0358", "command": "add lunch appointment with lisa to january second at twelve thirty pm", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0388", "command": "remind me to send the presentation today at one pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0430", "command": "please set an alarm clock for my next meeting with the team at three pm next friday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0450", "command": "set a reminder for the meeting friday at three pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0460", "command": "set meeting with jack on ten march", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0478", "command": "what time is it in new york", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0490", "command": "what day this year has the longest daylight time", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0494", "command": "yo what's the current time", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0504", "command": "hey olly what's the time", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0528", "command": "remind me at two pm tuesday for the three pm meeting with the boss", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0566", "command": "its not possible", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0574", "command": "please mark my calendar for therapy every tuesday at eleven am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0576", "command": "please check third event of twenty second of march twenty seventeen", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0580", "command": "olly make a calendar entry for next saturday at ten am please", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0584", "command": "on the day project one is due does my daughter have a recital", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0600", "command": "remind me on monday at two pm to have a meeting with andrew", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0630", "command": "i need a repeating reminder for every monday at three hundred and thirty pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0642", "command": "then tap ok", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0656", "command": "will you put in my calendar that john c and his wife are meeting with us at four pm tomorrow", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0730", "command": "what is the weather next week in pasadena ca", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0784", "command": "erase the meeting tomorrow at ten am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0786", "command": "should i wear shorts today", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0792", "command": "should i wear gloves tonight", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0808", "command": "do i need to wear a coat", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0820", "command": "count down for the birthday of my brother", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0838", "command": "add event on august twenty one at nine am", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0848", "command": "please remind me to call duker at one pm on thursday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0852", "command": "please set an alarm for seven hundred and thirty am tomorrow", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0890", "command": "what are my reminders for this month", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0894", "command": "delete my appointment for tomorrow at three pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C0946", "command": "please remind me about the meeting with julie at five pm this evening", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C0996", "command": "please tell what would be the weather in washington dc for the coming week", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1016", "command": "do i have a two pm appointment", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1022", "command": "is my calendar free for four pm today", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1026", "command": "what time is it in dooa", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1038", "command": "delete eric's bday from the calendar", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1042", "command": "add to calendar on this date and time with these people", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1044", "command": "remove what i have to do on the twenty three of march", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1046", "command": "notify me an hour before my two pm appointment at the car dealership", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1052", "command": "can you remind me to go to dentist appointment one day before", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1064", "command": "set a reminder for wednesdays at two pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1124", "command": "thursday at two pm i must meet with mr forman please mark the calendar", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1140", "command": "add my spin class to the calendar for saturday at seven am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1146", "command": "what day does april sixteenth fall on", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1170", "command": "schedule a meeting with brian billings for two thirty pm on friday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1172", "command": "should i wear my sunscreen", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1176", "command": "i need an alarm for nine pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1178", "command": "please tell me what is the time in tokyo japan", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1198", "command": "add my meeting in google office tomorrow ten am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1216", "command": "hey what time is it in orlando florida", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1242", "command": "remind me every first of the month", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1270", "command": "make wednesday evening at five pm always be a meeting with phil on my calendar", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1288", "command": "add a lunch date to my calendar for march fifteenth from twelve noon to one pm", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1296", "command": "delete the birthday party tomorrow at two pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1326", "command": "what day is it", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1332", "command": "whats the time in chicago", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1346", "command": "remember to remind me about client meet at four pm", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1350", "command": "what time is it in boston", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1358", "command": "olly do i need to wear gloves today", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1378", "command": "ok google what is the weather going to be like on march twentieth two thousand and seventeen", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1380", "command": "i need a reminder every single day at nine am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1408", "command": "please show me weather on twenty seventh march two thousand seventeen", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1416", "command": "olly i'll be seeing my therapist every thursday at two pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1426", "command": "i have a meeting tomorrow at five pm with the development team don't forget to remind me an hour earlier", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1442", "command": "add to calendar every year on may two is mary's birthday", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1444", "command": "make an alarm for three pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1454", "command": "make an alarm for five pm on tuesday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1484", "command": "send me notice of meeting wednesday nine am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1498", "command": "what will be the temperature today for miami florida", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1550", "command": "is halloween on a friday this year", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1562", "command": "set a reminder of meeting at nine am tomorrow", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1566", "command": "what day of the week is it", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1574", "command": "add happy new year to calendar", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1624", "command": "is the meeting with julie at three pm on wednesday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1634", "command": "create repeating event john's birthday on calendar", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1674", "command": "don't let me forget i need a reminder for march twenty seventh at noon", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1682", "command": "should i wear a jacket to work", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1702", "command": "i'm going to the oar concert in paris on march twenty four", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1730", "command": "set reminder to pick up kids on weekdays at three pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1732", "command": "can you please set twelve noon prayer for every friday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1734", "command": "add lee's birthday to the calendar on twenty two june", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1736", "command": "i need an alarm for sunday at eight am can you please set one for me", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1744", "command": "show me the weather forecast for the next three three days", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1746", "command": "please add march fifth as john's birthday", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1822", "command": "checkout today set alarm of ten am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1832", "command": "add repeating event on saturday on seven am named cinema time", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1850", "command": "put me in on tuesday the twenty first at ten with al", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1884", "command": "do you think i can wear sandals or should i wear sneakers tonight at seven pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1886", "command": "remind me about the meeting with dentist on the twenty third of may", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1894", "command": "what day does my birthday fall on this year", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1904", "command": "set a notification for sixth march that there is a society meeting at eleven am", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1912", "command": "do i need to wear boots", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1932", "command": "can you remind me to go to the corner store on tuesday", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1934", "command": "add a reminder on thursdays at eleven and thirty am and name it dance classes", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1960", "command": "please remind me to pickup john at school today at one pm", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C1962", "command": "what time does the match start", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1964", "command": "whether it would be sunny in califonia", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C1980", "command": "i need a reminder to call my mom at three pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2014", "command": "please set an alarm for ten pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2038", "command": "siri what's the date", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2046", "command": "should i wear a coat outside", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2080", "command": "when is the next boston redso game", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2090", "command": "show me my reminders", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2098", "command": "please set a reminder for tuesdays at nine am", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2124", "command": "remind me to call my daughter first thing on thursday to wish her happy anniversary", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2128", "command": "please remind me", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2176", "command": "set an alarm for ten o'clock tomorrow morning", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2200", "command": "should i wear a hat today", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2206", "command": "what time does the festival officially start", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2228", "command": "can you remind me of the meeting today at four pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2230", "command": "its very dangerous one", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2268", "command": "olly remind me about my eye exam at walmart on the twenty sixth", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2312", "command": "remind me to pick up more dog food at petco tomorrow at seven twenty pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2348", "command": "it is very hot today is not it", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2358", "command": "whether it would be sunny in califonia", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2368", "command": "remember me to meet reveca today at six pm", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2374", "command": "there's a good band playing tonight at nine at jazz bar i want to go", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2378", "command": "what time is it in switzerland", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2382", "command": "set regular bi-weekly meeting on fridays three pm", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2418", "command": "please invite kim marc and julian to a meeting on thursday at three pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2460", "command": "what's the news for six hundred and forty five am today", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2472", "command": "will i need to carry around a br today", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2474", "command": "set up a meeting with peter francis for monday at two pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2476", "command": "schedule meeting with manager tomorrow at two pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2504", "command": "could you please tell me what the current time is", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2508", "command": "please remind me the birthday of my uncle joe every may fourth", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2522", "command": "i need to be reminded that there is a meeting for paul's retirement set reminder for tuesday at three pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2536", "command": "can you remind me about my meeting tomorrow", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2556", "command": "remind me that i have a meeting at three pm tomorrow", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2576", "command": "tell me all known details about the tournament on march twenty two", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2606", "command": "i need to add baseball practice on saturday at two pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2620", "command": "don't forget to remind me of my brother's birthday on april twenty", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2716", "command": "is there any event marked on september twenty two", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2718", "command": "what day does my birthday fall on this year", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2726", "command": "remove father's day from calendar", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2756", "command": "one hundred and fifty thousand two hundred and seventeenth", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2768", "command": "what day and time is the acme meeting in san diego california", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2786", "command": "remind me to pick up more dog food at petco tomorrow at seven twenty pm", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2798", "command": "mark dad's retirement dinner for april fourth", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2838", "command": "add a reminder to april fourth to go to the dentist", "reason": "date_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2890", "command": "i want five hours freed up for jenn's birthday this saturday", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2922", "command": "what time is it in dubai", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2938", "command": "what time is the function of the play joy in broadway theater today", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2970", "command": "repeat reminder for my appointments for christmas", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2972", "command": "remind me that i have an appointment twelve o clock on saturday", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2982", "command": "is my golf game going to get rained out", "reason": "place_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2984", "command": "should i wear a sweater", "reason": "invalid_intent", "source": "worker_1.jsonl"}
+{"id": "C2996", "command": "what time is it in cleveland ohio", "reason": "time_not_in_command", "source": "worker_1.jsonl"}
+{"id": "C2998", "command": "weather fulton missouri", "reason": "place_not_in_command", "source": "worker_1.jsonl"}

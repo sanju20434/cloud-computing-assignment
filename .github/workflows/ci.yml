@@ -1,0 +1,36 @@
+﻿name: Cloud Assignment CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Compile Python files
+        run: |
+          python -m compileall -q app scripts tools training
+
+      - name: Run project tests
+        run: |
+          python scripts/test_teacher.py
+          python scripts/test_all_intents.py
+          python tools/nacl_sim.py network/nacl.json network/packets_sample.jsonl --check

@@ -1,0 +1,19 @@
+﻿
+model_name: EleutherAI/pythia-70m
+
+data:
+  train_file: datasets/v1/train.jsonl
+  max_train_samples: 1500
+  validation_file: data/validation.jsonl
+
+training:
+  output_dir: models/v1
+  num_train_epochs: 3
+  per_device_train_batch_size: 2
+  gradient_accumulation_steps: 4
+  learning_rate: 0.0001
+  max_length: 128
+  save_strategy: epoch
+  logging_steps: 1
+  seed: 42
+  use_cpu: true
