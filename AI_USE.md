@@ -1,21 +1,24 @@
 ﻿# AI Usage Disclosure
 
-## AI Tools Used
-ChatGPT was used as an assistant during the development of this Cloud Computing assignment.
+I worked on this Cloud Computing project myself and used ChatGPT occasionally whenever I needed guidance or help.
 
-## Areas Where AI Assistance Was Used
-1. Understanding Kubernetes, Docker and cloud deployment concepts.
-2. Debugging Python, API and configuration issues.
-3. Preparing and reviewing model training and evaluation scripts.
-4. Creating and improving test scripts.
-5. Understanding load-testing metrics and cost calculations.
-6. Preparing project documentation and performance review.
+### AI Assistance
 
-## Human Contributions
-1. Project setup and execution were performed by the student.
-2. Commands were executed and outputs were checked locally.
-3. Model training and API testing were performed in the local environment.
-4. Results and limitations were reviewed before documentation.
+ChatGPT was used to help with:
 
-## Verification
-AI-generated suggestions were reviewed and tested where possible. Reported performance values are based on actual local test outputs. Unverified or incomplete requirements are identified as limitations.
+1. Understanding Docker, Kubernetes and cloud computing concepts.
+2. Debugging errors in Python scripts and configuration files.
+3. Getting suggestions for model training and evaluation.
+4. Improving test scripts and understanding test results.
+5. Understanding performance metrics and cost calculations.
+6. Improving project documentation.
+
+### My Contribution
+
+I personally worked on the project setup, configuration, implementation, model training, API deployment, testing and result collection.
+
+I executed the commands in my local environment, checked the outputs, and reviewed the results myself.
+
+### Verification
+
+I used AI suggestions as guidance and checked them by running commands and testing the project wherever possible. The final implementation and practical work were carried out by me.
