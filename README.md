@@ -1,4 +1,5 @@
 # Cloud Computing Mini Project
+
 ## Knowledge Distillation and Deployment of a Lightweight Command-Parsing Model
 
 This project is part of the Cloud Computing (CS3081) mini project. The main objective is to train a lightweight language model using teacher-generated data and deploy it as an API service on a local Kubernetes-based cloud environment.
@@ -19,19 +20,19 @@ The system uses a teacher-student approach:
 
 ## Technologies Used
 
-- Python
-- PyTorch and Hugging Face Transformers
-- FastAPI
-- Docker
-- Kubernetes (k3d / k3s)
-- SeaweedFS (object storage)
-- Locust (load testing)
-- Git and GitHub Actions
+* Python
+* PyTorch and Hugging Face Transformers
+* FastAPI
+* Docker
+* Kubernetes (k3d / k3s)
+* SeaweedFS (object storage)
+* Locust (load testing)
+* Git and GitHub Actions
 
 ## Project Structure
 
 ```text
-cloud_assignment/
+cloud\_assignment/
 │
 ├── app/                 # FastAPI application
 ├── cluster/             # Local Kubernetes cluster configuration
@@ -41,8 +42,8 @@ cloud_assignment/
 ├── models/              # Model configuration and tokenizer files
 ├── network/             # Subnet and NACL configuration
 ├── prompts/             # Teacher prompt
-├── raw_outputs/         # Teacher model outputs
-├── raw_outputs_retry/   # Retry outputs
+├── raw\_outputs/         # Teacher model outputs
+├── raw\_outputs\_retry/   # Retry outputs
 ├── results/             # Evaluation and load-test results
 ├── scripts/             # Data processing and testing scripts
 ├── storage/             # SeaweedFS configuration
@@ -53,19 +54,19 @@ cloud_assignment/
 ├── Dockerfile
 ├── Makefile
 ├── requirements.txt
-└── AI_USE.md
+└── AI\_USE.md
 ```
 
 ## Requirements
 
 Install or configure the following tools before running the project:
 
-- Python 3
-- Docker Desktop
-- kubectl
-- k3d
-- GNU Make
-- Git
+* Python 3
+* Docker Desktop
+* kubectl
+* k3d
+* GNU Make
+* Git
 
 Python dependencies can be installed using:
 
@@ -102,19 +103,19 @@ make down
 Use the scoring script to evaluate predictions against the validation dataset:
 
 ```powershell
-python tools/score.py results/student_v2_predictions.jsonl data/validation.jsonl
+python tools/score.py results/student\_v2\_predictions.jsonl data/validation.jsonl
 ```
 
 To apply a minimum JSON validity threshold of 95%:
 
 ```powershell
-python tools/score.py results/student_v2_predictions.jsonl data/validation.jsonl --min-validity 95
+python tools/score.py results/student\_v2\_predictions.jsonl data/validation.jsonl --min-validity 95
 ```
 
 ### Network ACL Testing
 
 ```powershell
-python tools/nacl_sim.py network/nacl.json network/packets_sample.jsonl --check
+python tools/nacl\_sim.py network/nacl.json network/packets\_sample.jsonl --check
 ```
 
 ### API Load Testing
@@ -151,6 +152,31 @@ Dataset: https://github.com/pswietojanski/slurp
 
 License: CC BY 4.0.
 
-## Author
+## \## Author
 
-Student Project – Cloud Computing (CS3081)
+## 
+
+## \*\*Name:\*\* Sandeep Kumar Saini  
+
+## \*\*Roll Number:\*\* 230101029  
+
+## \*\*Department:\*\* Computer Science and Engineering  
+
+## \*\*Institute:\*\* IIIT Manipur
+
+## 
+
+## \## GitHub Repository
+
+## 
+
+## https://github.com/sanju20434/cloud-computing-assignment
+
+## 
+
+## \## Model Release
+
+## 
+
+## https://github.com/sanju20434/cloud-computing-assignment/releases/tag/v1.0
+
